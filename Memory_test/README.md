@@ -1,1 +1,2 @@
-The notebook FinalVersionMemory6.3.24.ipynb contains the code that was used for data collection and should also contain all 6 images used. In case the images don't seem to work I have added all 6 images into the file as well just in case. 
+The notebook CollectionCode.ipynb contains the code that was used for data collection and should also contain all 6 images used. In case the images don't seem to work I have added all 6 images into the file as well just in case. 
+The notebook FinalCode.ipynb is the improved code that was done post-collection and is made to run the code in a separate cell from the code. The code has been put into one general function that is then run in a new cell in the notebook. 
